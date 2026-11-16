@@ -32,6 +32,6 @@ A logic statement is used to asses if the mouse is hovering over Earth when it i
 
 
 ### Auxilia Europa
-![Character Creation](https://trisssmithdaigle.github.io/Screenshot 2026-11-09 145253.png)
+![Character Creation](https://trisssmithdaigle.github.io/Screenshot%202026-11-09%20145253.png)
 
 Will be added when I have access to my computer with the files for the game on it...
