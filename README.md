@@ -25,8 +25,9 @@ A logic statement is used to asses if the mouse is hovering over Earth when it i
 3. The text, "I was watching that" appears in the same color as the space creature
 4. All the stars, including the sun, turn blood red. Simultaneously, the external tendrils of the space creature are changed from Bezier curves to lines, thus being straightened. The four radial eyes look at the user, via the same method as step 2. Finally, Bezier curves are used to give the central eye a blood-shot Appearance.
 
-####Code Snapshot
+#### Code Snapshot
 ![Code Snapshot](https://trisssmithdaigle.github.io/compositionBTS.png)
+
 
 
 
