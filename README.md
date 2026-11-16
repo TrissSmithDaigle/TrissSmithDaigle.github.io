@@ -28,9 +28,21 @@ A logic statement is used to asses if the mouse is hovering over Earth when it i
 #### Code Snapshot
 ![Code Snapshot](https://trisssmithdaigle.github.io/compositionBTS.png)
 
+### Array and Function Practice<sup>Fall 2026||Prog-102-1</sup>
+
+This creation demonstrates knowledge of recursive functions and object arrays.
+
+![Practice Screenshot](https://trisssmithdaigle.github.io/functionArraysPracticeScreenShot.png)
 
 
+#### Intention
+The purpose of this program was to figure out how to use recursion to create shapes and patterns which change in size over time.
+The result is a random distribution of circle patterns which expand in size and then retract.
+This took way longer than necessary to get working, and indeed, it seems there are better uses for recursion.
 
+![Code Screenshot](https://trisssmithdaigle.github.io/functionArraysCodeScreenShot.png)
+
+#### Code Snapshot
 
 
 
