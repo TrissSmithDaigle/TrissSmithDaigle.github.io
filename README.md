@@ -55,6 +55,7 @@ An animated randomly generated composition creator.
 Compared to the previous work, this piece is much more elegant. Similar, it is an animated random distribution of shapes.
 When observed, the circles appear large, before each shrinking in size, some time after they disappear from sight, a bright white circle twice the size of the initial circle appears, leaving behind a transparent circle with a while edge stroke.
 The result is an illusion of circles continually appearing, falling, and then exploding, leaving behind a crater.
+This program is also capable of generating a screenshot whenever the mouse is pressed.
 
 
 
