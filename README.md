@@ -40,9 +40,22 @@ The purpose of this program was to figure out how to use recursion to create sha
 The result is a random distribution of circle patterns which expand in size and then retract.
 This took way longer than necessary to get working, and indeed, it seems there are better uses for recursion.
 
+#### Code Snapshot
 ![Code Screenshot](https://trisssmithdaigle.github.io/functionArraysCodeScreenShot.png)
 
-#### Code Snapshot
+
+
+### Composition Generator<sup>Fall 2026||Prog-102-1</sup>
+
+An animated randomly generated composition creator.
+
+![Generated Composition](https://trisssmithdaigle.github.io/compositionCreatorTrissSmithDaigle202610503336.png)
+
+#### Mechanics
+Compared to the previous work, this piece is much more elegant. Similar, it is an animated random distribution of shapes.
+When observed, the circles appear large, before each shrinking in size, some time after they disappear from sight, a bright white circle twice the size of the initial circle appears, leaving behind a transparent circle with a while edge stroke.
+The result is an illusion of circles continually appearing, falling, and then exploding, leaving behind a crater.
+
 
 
 
