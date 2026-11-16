@@ -15,7 +15,7 @@ The space creature in the foreground is created using a number of ellipses, circ
 The Moon, Earth, and Sun are created from circles with hexadecimal colors and varying alpha values.
 The star field in the Background is a random generation of over 2000 small circles in three separate distribution patterns in order to give the appearance of a galaxy as viewed from within its disk.
 
-![Earth Is Pressed](https://trisssmithdaigle.github.io/compositionPartTwo.png)
+![Earth Is Pressed](https://trisssmithdaigle.github.io/compostitionPartTwo.png)
 
 #### Interactive Composition
 This composition, after further modification, became interactive, with the first image as the default state of the piece.
